@@ -4,6 +4,7 @@ Implementation of an image captioner using a VAE. Currently has a training scrip
 
 To train, create the following directories - will add script to do so in the future.
 
+```
 ├── ...
 ├── data                    
 │   ├── Coco - All downloads can be found on https://cocodataset.org/#download
@@ -14,3 +15,4 @@ To train, create the following directories - will add script to do so in the fut
 |   |       └── ...
 │   └── glove.6B.50d.txt         #Download from https://nlp.stanford.edu/projects/glove/
 └── ...
+```
